@@ -1,4 +1,4 @@
 function timer
-	python /Users/nunull/Coding/python/timer/timer.py $argv
+	~/dotfiles/scripts/timer/timer.py $argv
 end
 
