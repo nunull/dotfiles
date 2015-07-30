@@ -2,7 +2,7 @@
 
 > Configuration for [fish](http://fishshell.com) and vim.
 
-Clone this repo to `~/dotfiles` and run `scripts/install`. Files will be symlinked into `~` and old files will be backed up in `dotfiles.old`.
+Clone this repo to `~/dotfiles` and run `scripts/install`. Files will be symlinked into `~` and old files will be backed up in `~/dotfiles.old`.
 
 Install `fish` (on OS X run `brew install fish`) and `chsh -s fish`.
 
