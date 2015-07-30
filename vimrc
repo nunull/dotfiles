@@ -25,6 +25,8 @@ let g:airline_right_sep=''
 let g:airline_theme='powerlineish'
 
 " Custom
+set viminfo=
+set nocompatible
 set tabstop=4
 set autoindent
 set relativenumber
