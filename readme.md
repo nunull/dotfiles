@@ -8,6 +8,10 @@ The `vimrc` uses [Vundle](https://github.com/VundleVim/Vundle.vim). Don't forget
 
 # Functions
 
+## `alert`
+
+The `alert` function displays an alert in OS X after the given time. Usage: `alert <time> <message>`. (Example: `alert 20 Pizza is done`)
+
 ## `cur`
 
 The `cur` function will open `~/notes/cur.md` in `vim`. I use this to keep track on current ToDos.
