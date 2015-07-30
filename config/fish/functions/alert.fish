@@ -7,5 +7,6 @@ function alert
 		sleep 1
 		echo -en "\b\b\b\b"
 	end
-	osascript -e "display notification \"$message\" with title \"Alert\" sound name \"Basso.aiff\""
+	# osascript -e "display notification \"$message\" with title \"Alert\" sound name \"Glass.aiff\""
+	osascript -e "display alert \"$message\""
 end
